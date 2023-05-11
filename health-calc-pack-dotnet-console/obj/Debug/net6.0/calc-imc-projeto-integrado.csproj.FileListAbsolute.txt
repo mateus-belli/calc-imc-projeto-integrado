@@ -1,0 +1,15 @@
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\bin\Debug\net6.0\calc-imc-projeto-integrado.exe
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\bin\Debug\net6.0\calc-imc-projeto-integrado.deps.json
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\bin\Debug\net6.0\calc-imc-projeto-integrado.runtimeconfig.json
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\bin\Debug\net6.0\calc-imc-projeto-integrado.dll
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\bin\Debug\net6.0\calc-imc-projeto-integrado.pdb
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\calc-imc-projeto-integrado.csproj.AssemblyReference.cache
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\calc-imc-projeto-integrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\calc-imc-projeto-integrado.AssemblyInfoInputs.cache
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\calc-imc-projeto-integrado.AssemblyInfo.cs
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\calc-imc-projeto-integrado.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\calc-imc-projeto-integrado.dll
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\refint\calc-imc-projeto-integrado.dll
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\calc-imc-projeto-integrado.pdb
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\calc-imc-projeto-integrado.genruntimeconfig.cache
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\ref\calc-imc-projeto-integrado.dll
