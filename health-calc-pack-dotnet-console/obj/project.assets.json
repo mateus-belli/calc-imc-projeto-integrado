@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "health-calc-pack-dotnet-o3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/health-calc-pack-dotnet-o3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/health-calc-pack-dotnet-o3.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "health-calc-pack-dotnet-o3/1.0.0": {
+      "type": "project",
+      "path": "../health-calc-pack-dotnet-o3/health-calc-pack-dotnet-o3.csproj",
+      "msbuildProject": "../health-calc-pack-dotnet-o3/health-calc-pack-dotnet-o3.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "health-calc-pack-dotnet-o3 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mateu\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mateu\\Development\\calc-imc-projeto-integrado\\health-calc-pack-dotnet-o3\\health-calc-pack-dotnet-o3.csproj": {
+              "projectPath": "C:\\Users\\mateu\\Development\\calc-imc-projeto-integrado\\health-calc-pack-dotnet-o3\\health-calc-pack-dotnet-o3.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

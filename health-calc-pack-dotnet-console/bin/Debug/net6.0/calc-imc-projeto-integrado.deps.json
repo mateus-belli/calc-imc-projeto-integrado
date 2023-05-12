@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "calc-imc-projeto-integrado/1.0.0": {
+        "dependencies": {
+          "health-calc-pack-dotnet-o3": "1.0.0"
+        },
         "runtime": {
           "calc-imc-projeto-integrado.dll": {}
+        }
+      },
+      "health-calc-pack-dotnet-o3/1.0.0": {
+        "runtime": {
+          "health-calc-pack-dotnet-o3.dll": {}
         }
       }
     }
   },
   "libraries": {
     "calc-imc-projeto-integrado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "health-calc-pack-dotnet-o3/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

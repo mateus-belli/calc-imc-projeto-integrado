@@ -13,3 +13,6 @@ C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-co
 C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\calc-imc-projeto-integrado.pdb
 C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\calc-imc-projeto-integrado.genruntimeconfig.cache
 C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\ref\calc-imc-projeto-integrado.dll
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\bin\Debug\net6.0\health-calc-pack-dotnet-o3.dll
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\bin\Debug\net6.0\health-calc-pack-dotnet-o3.pdb
+C:\Users\mateu\Development\calc-imc-projeto-integrado\health-calc-pack-dotnet-console\obj\Debug\net6.0\calc-imc-projeto-integrado.csproj.CopyComplete
