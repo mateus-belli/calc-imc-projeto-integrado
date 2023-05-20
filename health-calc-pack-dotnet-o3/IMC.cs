@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using health_calc_pack_dotnet_o3.Interfaces;
+using health_calc_pack_dotnet_o3.enums;
 
 namespace health_calc_pack_dotnet_o3
 {

@@ -3,7 +3,7 @@ namespace health_calc_pack_dotnet_test;
 using health_calc_pack_dotnet_o3.Interfaces;
 using health_calc_pack_dotnet_o3;
 
-public class UnitTest1
+public class IMCTest
 {
     [Fact]
     public void CalculaIMC_QuandoDadosValidos_EntaoRetornaIndice()
@@ -24,11 +24,10 @@ public class UnitTest1
       IIMC imc = new IMC();
       double Height = 10.00;
       double Weight = 400;
-      bool Expected = false;
 
       var result = imc.IsValidDate(Height, Weight);
 
-      Assert.Equal(Expected, result);
+      Assert.False(result);
     }
 
     [Fact]
