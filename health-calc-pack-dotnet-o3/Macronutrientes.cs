@@ -39,15 +39,7 @@ namespace health_calc_pack_dotnet_o3
           Gorduras = 1.0 * Peso
         };
       }
-      else if (ObjetivoFisico == ObjetivoFisicoEnum.PerdaPesoComGanhoMassa)
-      {
-        return new MacronutrientesModel()
-        {
-          Carboidratos = 4.5 * Peso,
-          Proteinas = 5.0 * Peso,
-          Gorduras = 1.0 * Peso
-        };
-      } else {
+       else {
         return new MacronutrientesModel();
       }
     }

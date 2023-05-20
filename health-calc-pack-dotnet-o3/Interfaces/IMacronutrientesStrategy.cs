@@ -7,8 +7,8 @@ using health_calc_pack_dotnet_o3.models;
 
 namespace health_calc_pack_dotnet_o3.Interfaces
 {
-    public interface IMacronutrientes
+    public interface IMacronutrientesStrategy
     {
-        MacronutrientesModel CalcularMacronutrientes(ObjetivoFisicoEnum Objetivo, double Peso);
+        MacronutrientesModel CalcularMacronutrientes(double Peso);
     }
 }
